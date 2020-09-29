@@ -1,0 +1,5 @@
+*Variables: Es un lugar donde se guarda algun tipo de informacion, que puede ser usada en un futuro
+*String: Son caracteres (numeros, letras, etc) los cuales se caracterizan por estar entre comillas
+*Funciones: Es un conjunto de instrucciones, agrupa varias instrucciones pequeñas 
+*Declaraciones if: son situaciones basadas en la pregunta 'si', si pasa determinada situacion mostrar esto si no pasa mostrar esto otro
+*Valores Booleanos: son respuestas del sistema basadas en las palabras verdadero o falso, si algo es verdadero no puede ser falso y si algo es falso no puede ser verdadero 
